@@ -3,6 +3,8 @@
 
 ### useState:
 ### useEffect:
+### useRef:
 ### useReducer:
 ### useContext:
+### useCallback:
 ### useMemo:
